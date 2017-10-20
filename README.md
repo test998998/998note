@@ -14,10 +14,10 @@ yum install python
 ## Sqlmap安装
 
 ## Nmap安装
-安装所需环境：
+安装所需环境
 yum install git autoconf gcc gcc-c++ make automake -y
 
-安装到：
+安装到
 cd /usr/src
 git clone https://github.com/nmap/nmap.git
 cd nmap
