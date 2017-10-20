@@ -3,12 +3,12 @@
 yum update   
 yum upgrade
 
-## IPsec VPN一键搭建
-wget https://git.io/vpnsetup-centos -O vpnsetup.sh && sudo sh vpnsetup.sh
-
-
+## 安装其他
 yum install tmux   
 yum install python
+
+## IPsec VPN一键搭建
+wget https://git.io/vpnsetup-centos -O vpnsetup.sh && sudo sh vpnsetup.sh
 
 
 ## Sqlmap安装
